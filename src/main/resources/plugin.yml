@@ -1,0 +1,4 @@
+name: DeathLootPlugin
+version: '1.0-SNAPSHOT'
+main: core.DeathLootPlugin.deathLootPlugin.DeathLootPlugin
+api-version: '1.21'
